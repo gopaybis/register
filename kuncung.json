@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "is-a-dev",
+    "email": "lifetime01@mediaholy.com"
+  },
+  "records": {
+    "CNAME": "vlesslah.lifetime01.workers.dev"
+  },
+  "proxied": true
+}
